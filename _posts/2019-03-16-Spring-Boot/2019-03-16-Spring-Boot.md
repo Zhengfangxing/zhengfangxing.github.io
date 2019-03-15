@@ -6,7 +6,7 @@ tags: Pullback Pushforward Java Microservice
 keywords: Pull-back Push-forward algebra left-invariant-vector-field
 status: Completed
 edit: 2019-03-16
-description: 简化Spring应用开发的一个框架,整个Spring技术栈的一个大整合,J2EE开发的一站式解决方案.
+description: A framework to simplify Spring application development, a large integration of the entire Spring technology stack, and a one-stop solution for J2EE development.
 
 ---
 # **一、**Spring Boot 入门
