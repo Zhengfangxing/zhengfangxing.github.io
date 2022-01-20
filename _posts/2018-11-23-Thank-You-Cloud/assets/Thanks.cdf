@@ -418,7 +418,7 @@ Cell[BoxData[{
     RowBox[{"QuantityMagnitude", "[", "Speakers", "]"}], "\[Rule]", " ", 
     "Words"}], ",", 
    RowBox[{"WordOrientation", "\[Rule]", "\"\<HorizontalVertical\>\""}], ",", 
-   RowBox[{"RandomSeeding", "\[Rule]", "\"\<yingkailiu\>\""}]}], 
+   RowBox[{"RandomSeeding", "\[Rule]", "\"\<William zheng\>\""}]}],
   "]"}]}], "Input",
  CellChangeTimes->{{3.7520355978789415`*^9, 3.7520356209252825`*^9}, {
    3.752035699635989*^9, 3.7520357606566353`*^9}, {3.7520358003114843`*^9, 

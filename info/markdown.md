@@ -136,11 +136,11 @@ Wrap underscores with whitespaces like this $x _ 1$, $x _ 2$, $x _ {c _ 2}^{c _ 
 
 Markdown uses `![caption](link)` to reference pictures, caption is optional. You cannot control the size. 
 
-![caption](https://raw.githubusercontent.com/yk-liu/yk-liu.github.io/master/_posts/2018-11-01-Introduction-to-Homology/assets/triangles.png)
+![caption](https://raw.githubusercontent.com/zhengfangxing/zhengfangxing.github.io/master/_posts/2018-11-01-Introduction-to-Homology/assets/triangles.png)
 
 So I prefer using HTML tags like this:
 
-<img src="https://raw.githubusercontent.com/yk-liu/yk-liu.github.io/master/_posts/2018-11-01-Introduction-to-Homology/assets/triangles.png" width="30%">
+<img src="https://raw.githubusercontent.com/zhengfangxing/zhengfangxing.github.io/master/_posts/2018-11-01-Introduction-to-Homology/assets/triangles.png" width="30%">
 
 
 # Lists
@@ -184,7 +184,7 @@ So I prefer using HTML tags like this:
 
 | You can use `![caption](link)` in tables.                    | You can use Math in tables. | You can use `<img src="" width="">` in tables.               |
 | ------------------------------------------------------------ | --------------------------- | ------------------------------------------------------------ |
-| ![caption](https://raw.githubusercontent.com/yk-liu/yk-liu.github.io/master/_posts/2018-11-01-Introduction-to-Homology/assets/triangles.png) | $1+1=2$                     | <img src="https://raw.githubusercontent.com/yk-liu/yk-liu.github.io/master/_posts/2018-11-01-Introduction-to-Homology/assets/triangles.png" width="30%"> |
+| ![caption](https://raw.githubusercontent.com/zhengfangxing/zhengfangxing.github.io/master/_posts/2018-11-01-Introduction-to-Homology/assets/triangles.png) | $1+1=2$                     | <img src="https://raw.githubusercontent.com/zhengfangxing/zhengfangxing.github.io/master/_posts/2018-11-01-Introduction-to-Homology/assets/triangles.png" width="30%"> |
 
 # Foot Notes
 
@@ -210,8 +210,8 @@ This is a note[^1]. Footnotes can have captions like[^this]. You can reference t
 The Foot notes are like this
 
 
-[^1]: https://yk-liu.github.io
-[^this]: https://yk-liu.github.io
+[^1]: https://zhengfangxing.github.io
+[^this]: https://zhengfangxing.github.io
 
 [^this-one]: 
     > Blockquotes can be in a footnote.
@@ -222,4 +222,4 @@ The Foot notes are like this
 
 [^that]: or, naturally, simple paragraphs.
 
-[linkid]: https://yk-liu.github.io "Optional Title"
+[linkid]: https://zhengfangxing.github.io "Optional Title"
