@@ -71,11 +71,11 @@ description: A framework to simplify Spring application development, a large int
 
 整合maven进来；
 
-![idea设置](https://github.com/Zhengfangxing/zhengfangxing.github.io/tree/master/_posts/2019-03-16-Spring-Boot/assets/20180129151045.jpg)
+![idea设置](https://github.com/Zhengfangxing/zhengfangxing.github.io/blob/master/_posts/2019-03-16-Spring-Boot/assets/20180129151045.png)
 
 
 
-![https://github.com/Zhengfangxing/zhengfangxing.github.io/tree/master/_posts/2019-03-16-Spring-Boot/assets/](https://github.com/Zhengfangxing/zhengfangxing.github.io/tree/master/_posts/2019-03-16-Spring-Boot/assets/20180129151112.jpg)
+![maven设置](https://github.com/Zhengfangxing/zhengfangxing.github.io/raw/master/_posts/2019-03-16-Spring-Boot/assets/20180129151112.png)
 
 ## 4、Spring Boot HelloWorld
 
