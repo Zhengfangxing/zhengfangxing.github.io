@@ -1,3 +1,12 @@
+---
+
+title: Dubbo
+categories: Java interview
+tags: interview
+keywords: interview
+status: Completed
+edit: 2022-01-20
+description: Dubbo
 ## Dubbo
 
 #### 1.什么是Dubbo?

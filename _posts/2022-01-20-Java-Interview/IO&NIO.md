@@ -1,3 +1,10 @@
+title: IO&NIO
+categories: Java interview
+tags: interview
+keywords: interview
+status: Completed
+edit: 2022-01-20
+description: IO&NIO
 ## IO&NIO
 
 
