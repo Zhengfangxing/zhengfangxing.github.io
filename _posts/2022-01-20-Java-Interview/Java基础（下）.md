@@ -225,7 +225,7 @@ System.out.println(Arrays.toString(array));
 嵌套数组：
 
 ```
-String[][] deepArray = new String[][] {{"John", "Mary"}, {"Alice", "Bob"}};
+String[][] deepArray = new String[][] `{{"John", "Mary"}, {"Alice", "Bob"}};`
 System.out.println(Arrays.toString(deepArray));
 //output: [[Ljava.lang.String;@106d69c, [Ljava.lang.String;@52e922]
 System.out.println(Arrays.deepToString(deepArray));
